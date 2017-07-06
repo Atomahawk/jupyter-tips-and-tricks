@@ -57,7 +57,7 @@ ipython kernel install --display-name insightpy3 --name insightpy3
 Add this (modify it first) to your `.bashrc`
 
 ```bash
-export initials='jbw'
+export initials='amt'
 
 minimalnb () {
     # Usage: minimalnb [exploratory_data_analysis]
@@ -66,7 +66,7 @@ minimalnb () {
     # The example would yield a file in the current directory named: 
     # 2016-08-17_jbw_exploratory_data_analysis.ipynb
     curl -H 'Accept: application/vnd.github.v3.raw' -L \
-    https://api.github.com/repos/jbwhit/jupyter-tips-and-tricks/contents/templates/minimal.ipynb \
+    https://api.github.com/repos/atomahawk/jupyter-tips-and-tricks/contents/templates/minimal.ipynb \
     -o `date +%Y-%m-%d`_${initials}_$1.ipynb
 } 
 ```
