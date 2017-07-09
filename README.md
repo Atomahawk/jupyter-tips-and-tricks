@@ -1,3 +1,5 @@
+First interacted with this repo from this vid: https://www.youtube.com/watch?v=JI1HWUAyJHE&t=423s
+
 # Jupyter Notebook Tips and Tricks
 
 A few (hopefully) useful tips and tricks to using the Jupyter Notebook with an eye to pragmatic usage. **This is not, in any way, an exhaustive demonstration of the features of the Jupyter notebook**. Further, you can go through these notebooks on your own, but I usually demonstrate using them and give lots of information verbally.
